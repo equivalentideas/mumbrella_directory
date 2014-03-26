@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'typhoeus'
 require 'nokogiri'
 
